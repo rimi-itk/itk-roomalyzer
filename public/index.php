@@ -1,5 +1,13 @@
 <?php
 
+/*
+ * This file is part of itk-dev/roomalyzer.
+ *
+ * (c) 2020 ITK Development
+ *
+ * This source file is subject to the MIT license.
+ */
+
 use App\Kernel;
 use Symfony\Component\Dotenv\Dotenv;
 use Symfony\Component\ErrorHandler\Debug;
